@@ -1422,3 +1422,5 @@ config MACH_XIAOMI_E5
 endmenu
 
 endmenu
+
+source "techpack/Kconfig"
